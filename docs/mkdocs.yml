@@ -1,0 +1,7 @@
+site_name: Mohammad alalwy Mkdocs
+dev_addr: '0.0.0.0:8000'
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
